@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Inteligência artificial nos estudos, com acompanhamento da família</title>
+  <desc id="description">Caderno aberto com desenhos de frações e um lápis, acompanhado por dois balões: um com os perfis de um adulto e uma criança, outro com um brilho que representa a inteligência artificial. Linhas pontilhadas conectam os elementos sobre arcos verdes.</desc>
+  <defs>
+    <linearGradient id="outer-arch" x1="600" y1="72" x2="600" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4c9054"/>
+      <stop offset=".55" stop-color="#388044"/>
+      <stop offset="1" stop-color="#176b2d"/>
+    </linearGradient>
+    <linearGradient id="inner-arch" x1="577" y1="164" x2="577" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#91ba80"/>
+      <stop offset=".5" stop-color="#71a56b"/>
+      <stop offset="1" stop-color="#176b2d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fundo, arcos e paleta compartilhados com as outras capas. -->
+  <path fill="#176b2d" d="M0 0h1200v720H0z"/>
+  <path d="M132 690V408C132 222 283 72 469 72h262c186 0 337 150 337 336v282H132Z" fill="url(#outer-arch)"/>
+  <path d="M338 690V403c0-132 107-239 239-239s239 107 239 239v287H338Z" fill="url(#inner-arch)"/>
+
+  <!-- Os apoios se conectam ao estudo, sem substituir o caderno. -->
+  <path d="M449 203c61-62 157-75 241-32M342 310c-52 30-75 74-63 119M867 307c54 40 71 89 42 134M443 626c80 25 189 25 270-3" stroke="#c3ddb2" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 13"/>
+  <path d="M238 264h20m-10-10v20M961 380h18m-9-9v18" stroke="#c3ddb2" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="517" cy="124" r="5" fill="#c3ddb2"/>
+  <circle cx="925" cy="204" r="5" fill="#c3ddb2"/>
+  <circle cx="252" cy="529" r="5" fill="#c3ddb2"/>
+
+  <!-- Adulto e criança: a família participa da conversa. -->
+  <g transform="rotate(-7 373 248)">
+    <path d="M315 175h123c18 0 32 14 32 32v71c0 18-14 32-32 32h-38l-32 27v-27h-53c-18 0-32-14-32-32v-71c0-18 14-32 32-32Z" fill="#f9fff8" stroke="#125523" stroke-width="6" stroke-linejoin="round"/>
+    <circle cx="344" cy="224" r="22" fill="#dcebd2" stroke="#176b2d" stroke-width="4"/>
+    <path d="M308 281v-5c0-21 16-35 36-35s36 14 36 35v5" fill="#dcebd2" stroke="#176b2d" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="410" cy="237" r="17" fill="#c3ddb2" stroke="#176b2d" stroke-width="4"/>
+    <path d="M382 281v-4c0-16 12-27 28-27s28 11 28 27v4" fill="#c3ddb2" stroke="#176b2d" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Balão conceitual de IA, sem representar uma marca ou aplicativo. -->
+  <g transform="rotate(7 764 237)">
+    <path d="M687 156h157c19 0 34 15 34 34v80c0 19-15 34-34 34h-87l-34 29v-29h-36c-19 0-34-15-34-34v-80c0-19 15-34 34-34Z" fill="#f9fff8" stroke="#125523" stroke-width="6" stroke-linejoin="round"/>
+    <path d="m729 183 12 33 33 12-33 12-12 33-12-33-33-12 33-12 12-33Z" fill="#f2c45f" stroke="#125523" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M796 208h45M796 232h33M796 256h22" stroke="#91ba80" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- Livro-caderno aberto: o raciocínio continua no centro da atividade. -->
+  <path d="M310 354c87-22 169-19 263 9 93-28 176-31 263-9v246c-91-21-174-17-263 11-89-28-172-32-263-11V354Z" fill="#125523" opacity=".22" transform="translate(7 10)"/>
+  <path d="M310 354c87-22 169-19 263 9 93-28 176-31 263-9v246c-91-21-174-17-263 11-89-28-172-32-263-11V354Z" fill="#c3ddb2" stroke="#125523" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M325 338c79-16 160-13 248 16v237c-87-28-167-32-248-14V338Z" fill="#f9fff8" stroke="#125523" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M573 354c88-29 169-32 248-16v239c-81-18-161-14-248 14V354Z" fill="#e9f3e4" stroke="#125523" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M586 371v195" stroke="#d1e1c9" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Metade e um quarto, como no exemplo do artigo. -->
+  <circle cx="442" cy="425" r="43" fill="#dcebd2"/>
+  <path d="M442 382a43 43 0 0 1 0 86v-86Z" fill="#71a56b"/>
+  <circle cx="442" cy="425" r="43" stroke="#176b2d" stroke-width="5"/>
+  <path d="M442 382v86" stroke="#176b2d" stroke-width="4"/>
+  <circle cx="697" cy="425" r="43" fill="#f9fff8"/>
+  <path d="M697 425v-43a43 43 0 0 1 43 43h-43Z" fill="#71a56b"/>
+  <circle cx="697" cy="425" r="43" stroke="#176b2d" stroke-width="5"/>
+  <path d="M697 382v86M654 425h86" stroke="#176b2d" stroke-width="4"/>
+  <path d="M364 498c51-5 104-1 155 11M364 526c43-4 84-1 119 6M625 509c51-12 104-16 155-11M625 537c40-10 80-14 116-14" stroke="#a7bd9c" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Lápis com a mesma cor de destaque usada nas capas anteriores. -->
+  <g transform="rotate(24 862 486)">
+    <path d="M843 391v176l19 36 19-36V391h-38Z" fill="#125523" opacity=".2" transform="translate(5 7)"/>
+    <path d="M843 391h38v176l-19 36-19-36V391Z" fill="#f2c45f" stroke="#125523" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M843 567h38l-19 36-19-36Z" fill="#fff0b7" stroke="#125523" stroke-width="5" stroke-linejoin="round"/>
+    <path d="m855 590 7 13 7-13h-14Z" fill="#125523"/>
+    <path d="M862 422v129" stroke="#ffe69e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M843 411h38v-22c0-10-8-18-19-18s-19 8-19 18v22Z" fill="#f9fff8" stroke="#125523" stroke-width="5"/>
+    <path d="M843 411h38" stroke="#125523" stroke-width="5"/>
+  </g>
+</svg>
