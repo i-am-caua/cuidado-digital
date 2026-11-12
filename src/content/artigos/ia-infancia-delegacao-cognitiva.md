@@ -6,7 +6,7 @@ publishedAt: 2026-11-05
 updatedAt: 2026-11-05
 author: "Equipe Cuidado Digital"
 readingMinutes: 8
-featured: true
+featured: false
 draft: false
 cover:
   src: "/media/artigos/ia-infancia-delegacao-cognitiva/capa.svg"
