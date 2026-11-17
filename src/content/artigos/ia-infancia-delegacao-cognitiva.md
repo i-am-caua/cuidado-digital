@@ -8,6 +8,11 @@ author: "Equipe Cuidado Digital"
 readingMinutes: 8
 featured: false
 draft: false
+video:
+  provider: youtube
+  id: "PbY_Bl7-1iM"
+  format: shorts
+  title: "IA na infância: como aprender sem copiar respostas | Cuidado Digital"
 cover:
   src: "/media/artigos/ia-infancia-delegacao-cognitiva/capa.svg"
   socialImage: "/media/artigos/ia-infancia-delegacao-cognitiva/capa.png"
