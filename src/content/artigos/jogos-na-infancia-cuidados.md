@@ -6,7 +6,7 @@ publishedAt: 2026-11-17
 updatedAt: 2026-11-17
 author: "Equipe Cuidado Digital"
 readingMinutes: 10
-featured: false
+featured: true
 draft: false
 cover:
   src: "/media/artigos/jogos-na-infancia-cuidados/capa.svg"
@@ -16,6 +16,7 @@ cover:
   caption: "Criação, comunicação, classificação e compras fazem parte dos cuidados com jogos na infância. Ilustração conceitual; não representa telas dos aplicativos."
 video:
   provider: youtube
+  id: "pBLjjO0gvng"
   format: shorts
   title: "Jogos na infância: cuidados com classificação, chat e compras | Cuidado Digital"
 sources:
